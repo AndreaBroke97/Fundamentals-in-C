@@ -1,0 +1,1 @@
+printf("\n[esercizio n12]\n");
